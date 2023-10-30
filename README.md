@@ -1,7 +1,5 @@
 # Pulsate Community Discussions
 
--- [日本語](./README_JA.md)
-
 In this repository you can give feedback, discuss and ask questions about the
 Pulsate Project.
 
@@ -23,8 +21,7 @@ Please **always** follow this Code of Conduct in Pulsate Community Discussions.
 Any deviation from this code of conduct will be subject to punishment by the
 Pulsate Moderator Team.
 
-// TODO: リンクを追加する Once you have reviewed the Code of Conduct, please
-read through the post [Welcome to Pulsate Community Discussions]().
+Once you have reviewed the Code of Conduct, please read through the post [Welcome to Pulsate Community Discussions]().
 
 This is where we announce how to use Pulsate Community Discussions. If you are
 new to Pulsate Community Discussions, it is **STRONGLY** recommended that you
