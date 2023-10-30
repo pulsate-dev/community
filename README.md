@@ -1,5 +1,7 @@
 # Pulsate Community Discussions
 
+-- [日本語](./README_JA.md)
+
 In this repository you can give feedback, discuss and ask questions about the
 Pulsate Project.
 
