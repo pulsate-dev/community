@@ -1,0 +1,6 @@
+{
+  "deno.enable": false,
+  "deno.lint": false,
+  "deno.unstable": false,
+  "markdown.extension.toc.levels": "2..6"
+}

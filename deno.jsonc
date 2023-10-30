@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "fmt": "deno fmt .",
+    "fmt:watch": "deno fmt --watch ."
+  }
+}
